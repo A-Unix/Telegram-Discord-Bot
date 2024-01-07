@@ -5,7 +5,7 @@
 
 ### Clone the repo
 ```bash
-git clone https://github.com/Atuls-git/Telegram-Discord-Bot.git
+git clone https://github.com/A-Unix/Telegram-Discord-Bot.git
 ```
 ### Move to cloned folder
 ```bash
